@@ -6,7 +6,7 @@
 
 	<groupId>me.fernando</groupId>
 	<artifactId>spring-boot-application</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0-SNAPSHOT</version>
 	<name>spring-boot-application</name>
 	<description>Demo Spring Boot Application para testar as funcionalidades do Java 15 com Hibernate</description>
 
